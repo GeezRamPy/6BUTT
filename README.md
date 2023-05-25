@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fizzy-adeeva%2F6BUTT&template=https%3A%2F%2Fgithub.com%2FGeezrampy%26BUTT)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fizzy-adeeva%2FRAM-UTOD&template=https%3A%2F%2Fgithub.com%2FGeezrampy%26BUTT)</br>
 
 
 <details>
